@@ -38,8 +38,11 @@ To run this chatbot project, you'll need the following prerequisites:
 
 5.**Accessing the chatbot**:
    Access the chatbot at http://127.0.0.1:5000 in your web browser.
+   
    Open the web interface and start interacting with the chatbot by typing messages or questions in the input box.
+   
    After typing your message, click a "Send" button to submit your message to the chatbot.
+   
    The chatbot will process your input using the GPT-2 model and generate a response. This response will be displayed in the chat interface, typically below your message.
 
 ## Features
