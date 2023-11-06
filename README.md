@@ -4,13 +4,17 @@ This project involves the creation of a Python chatbot that engages in natural l
 ## Dataset Information
 
 This project uses a Kaggle dataset that contains a collection of dialogues and conversations. The dataset provides the training data for the chatbot's language model and serves as a valuable resource for generating contextually relevant responses.
+
 Dataset source:https://www.kaggle.com/datasets/grafstor/simple-dialogs-for-chatbot
 
 ## Technologies Used
 
  Python 3.6
+ 
  Flask 2.0.2
+ 
  Transformers 4.9.1
+ 
  Pandas 1.3.3
  
 ## Prerequisites
@@ -26,8 +30,11 @@ To run this chatbot project, you'll need the following prerequisites:
 
 1. **Installation**:
     Ensure you have Python 3.6 or higher installed.
+   
     Install Flask using `pip install Flask`.
+   
     Install Transformers by Hugging Face with `pip install transformers`.
+   
     Install Pandas using `pip install pandas`.
 
 3. **Configuration**:
