@@ -8,20 +8,17 @@ This project uses a Kaggle dataset that contains a collection of dialogues and c
 Dataset source:[Kaggle](https://www.kaggle.com/datasets/grafstor/simple-dialogs-for-chatbot)
 
 ## Technologies Used
-
- Python 3.6
- Flask 2.0.2
- Transformers 4.9.1
- Pandas 1.3.3
+ -Python 3.6
+ -Flask 2.0.2
+ -Transformers 4.9.1
+ -Pandas 1.3.3
 
 ## Prerequisites
-
 To run this chatbot project, you'll need the following prerequisites:
-
- Python 3.6 or higher
- Flask
- Transformers library by Hugging Face
- Pandas (for dataset handling)
+ -Python 3.6 or higher
+ -Flask
+ -Transformers library by Hugging Face
+ -Pandas (for dataset handling)
 
 ## Getting Started
 
