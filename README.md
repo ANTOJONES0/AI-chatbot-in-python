@@ -1,6 +1,4 @@
-# Chatbot project 
-
-![kaggle Dataset](https://www.kaggle.com/datasets/grafstor/simple-dialogs-for-chatbot)
+#create a Chatbot in python
 
 This project involves the creation of a Python chatbot that engages in natural language conversations with users. It leverages a pretrained GPT-2 model for generating contextually relevant responses. The chatbot is accessible through a web interface built using Flask.
 
