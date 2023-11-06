@@ -22,8 +22,11 @@ Dataset source:https://www.kaggle.com/datasets/grafstor/simple-dialogs-for-chatb
 To run this chatbot project, you'll need the following prerequisites:
 
  Python 3.6 or higher
+ 
  Flask
+ 
  Transformers library by Hugging Face
+ 
  Pandas (for dataset handling)
 
 ## Getting Started
