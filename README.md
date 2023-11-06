@@ -8,11 +8,11 @@ Dataset source:https://www.kaggle.com/datasets/grafstor/simple-dialogs-for-chatb
 
 ## Technologies Used
 
- Python 3.6.
- Flask 2.0.2.
- Transformers 4.9.1.
- Pandas 1.3.3.
-
+ Python 3.6
+ Flask 2.0.2
+ Transformers 4.9.1
+ Pandas 1.3.3
+ 
 ## Prerequisites
 
 To run this chatbot project, you'll need the following prerequisites:
